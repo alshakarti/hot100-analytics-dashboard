@@ -9,11 +9,9 @@ This project is part of my Hyper Island Python Course. I developed a music analy
 - **Billboard data**: Historical chart data from the Billboard Hot 100.
 - **Spotify data**: Artist information and audio features for tracks available on Spotify.
 
-This exploratory analysis examines 24 years of Billboard chart and Spotify data to identify common factors among Billboard-worthy songs.   
+This exploratory analysis examines 24 years of Billboard chart and Spotify data to identify common factors among Billboard-worthy songs. 
 
-## Exploratory Data Analysis
-
-## Executive Summary
+## Findings
 
 Key findings indicate that charting songs consistently share a similar audio profile. These songs typically feature lyrics and are well-suited for dancing, with a sound that is often described as happy, cheerful, or euphoric. They also have an energetic, fast, loud, and noisy quality, with subtle acoustic elements. On average, these songs have a tempo of 122 beats per minute (BPM). Additionally, approximately 33% of these songs are in a major key, with the majority composed in C#/Db.
 
