@@ -6,8 +6,8 @@ This project is part of my Hyper Island Python Course. I developed a music analy
 
 ## Data Sources
 
-- **Billboard data**: Historical chart data from the Billboard Hot 100.
-- **Spotify data**: Artist information and audio features for tracks available on Spotify.
+- **Data scraping**: Historical chart data from the Billboard Hot 100.
+- **Spotify API**: Artist information and audio features for tracks available on Spotify.
 
 This exploratory analysis examines 24 years of Billboard chart and Spotify data to identify common factors among Billboard-worthy songs. 
 
